@@ -1,5 +1,3 @@
-# Topological-Data-Analysis-TDA-for-Financial-Time-Series-Regime-Prediction
-
 Topological Data Analysis (TDA) for Financial Time Series & Regime Prediction
 A hybrid quantitative machine learning pipeline combining Topological Data Analysis (TDA) and Deep Sequence Modeling (LSTM) to predict market direction and detect structural volatility regime shifts on S&P 500 index ETF (SPY) data.
 📌 Overview
@@ -114,4 +112,5 @@ Cost (bps)	Cumulative Return	Sharpe Ratio	Max Drawdown	Trade Count
 Tracking H1 persistence entropy over sliding windows reveals structural loop dissolution prior to major market liquidations:
 •	2008 Global Financial Crisis: Sharp spikes in 1D topological entropy preceded the Lehman collapse and major equity drawdowns.
 •	2020 COVID-19 Flash Crash: Abrupt topological phase shifts captured the compression of market state space weeks prior to peak equity decline.
+
 
